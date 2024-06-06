@@ -1,4 +1,4 @@
-# OpenCV + libusb
+# libusb
 
 ## Задание
 
